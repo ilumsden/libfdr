@@ -1,6 +1,6 @@
 # Libfdr
 
-**This repository is a copy of Dr. Jim Plank's libraries for fields, doubly-linked lists, and red-black trees. All rights are his. I've made this repo so that other people can have easy, up-to-date access to this library without being connected to the computers UTK's Hydra computer lab.**
+**This repository is a copy of Dr. Jim Plank's libraries for fields, doubly-linked lists, and red-black trees. All rights are his. I've made this repo so that other people can have easy, up-to-date access to this library without being connected to the computers UTK's Hydra computer lab. Below are Dr. Plank's disclamers, documentation info, and licensing info.**
 
 Libraries for fields, doubly-linked lists and red-black trees.
 Copyright (C) 2001 James S. Plank
